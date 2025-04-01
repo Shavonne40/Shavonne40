@@ -1,40 +1,65 @@
 cat > README.md <<EOL
-# Hi, I'm Shavonne McKinney! 👋
+# Hello, Welcome to My GitHub Profile! 👋
 
-## About Me
-I am a dedicated and ambitious student at **MSU Denver**, pursuing a **Bachelor's degree in Computer Information Systems**. With a strong background in **student leadership, business writing, and project management**, I am passionate about advocating for student needs and fostering equitable opportunities in academic and professional spaces.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shavonne-mckinney-81552a145)  
+[![GitHub](https://img.shields.io/badge/GitHub-Username-lightgrey)]([Your GitHub URL])  
+[![Email](https://img.shields.io/badge/Email-Email-red)](mailto:smckin16@msudenver.edu)
 
-## 🏆 Leadership & Involvement
-- **Student Government Councilor** | MSU Denver (July 2024 – Present)
-  - Co-Chair of the PR Committee, managing media communications and social content.
-  - Responsible for drafting memorandums, press releases, and research initiatives.
-  - Help manage a **$30,000 budget** alongside a team of 10 students.
-- **Honor Program Scholar** | MSU Denver (Spring 2024 – Present)
-- **Center for Advanced STEM Education Scholar** | MSU Denver (Spring 2023 – Present)
-- **National Society of Collegiate Scholars** | MSU Denver (Fall 2024 – Present)
-- **Phi Theta Kappa Honors Society Member** | MSU Denver (Spring 2023 – Present)
+🎓 **Student at MSU Denver**  
+💻 **Computer Information Systems Major** with a passion for **leadership, business writing, and project management**
+
+---
+
+## 💼 Leadership & Involvement
+
+### MSU Denver, Denver, CO
+
+#### Student Government Councilor (July 2024 – Present)  
+- Co-Chair of the PR Committee, managing media communications and social content.  
+- Responsible for drafting memorandums, press releases, and research initiatives.  
+- Help manage a **$30,000 budget** alongside a team of 10 students.  
+
+#### Center for Advanced STEM Education Scholar (Spring 2023 – Present)  
+#### Honor Program Scholar (Spring 2024 – Present)  
+#### National Society of Collegiate Scholars (Fall 2024 – Present)  
+#### Phi Theta Kappa Honors Society Member (Spring 2023 – Present)  
+
+---
 
 ## 🎓 Education
-- **Bachelor of Computer Information Systems** | MSU Denver (Jan 2024 – Present)
-  - Honors: Dean’s List, Honors Program Scholar, HACU Cohort Scholar.
-- **AAP, Computer Info Systems** | Community College of Denver (Summer 2022 – Fall 2023)
-  - Honors: President’s List, PepsiCo Scholarship Recipient, President’s Grit Award, B.U.I.L.D Scholar.
 
-## 🛠️ Skills
-- **Technical & Analytical:** Problem Solving, Business Writing, Project Management
-- **Leadership & Collaboration:** Team Leadership, Relationship Building, Crisis Management
-- **Customer Service & Communication:** Adaptability, Interpersonal Communication, Organization
+### MSU Denver, Denver, CO  
+**Bachelor of Computer Information Systems** *(Jan 2024 – Present)*  
+- Honors: Dean’s List, Honors Program Scholar, HACU Cohort Scholar.  
+
+### Community College of Denver, Denver, CO  
+**AAP, Computer Info Systems** *(Summer 2022 – Fall 2023)*  
+- Honors: President’s List, PepsiCo Scholarship Recipient, President’s Grit Award, B.U.I.L.D Scholar.  
+
+---
+
+## 🛠 Technical Skills
+
+- **Customer/Client Services:** Relationship Building, Crisis Management  
+- **Business & Leadership:** Business Writing, Project Management, Team Leadership  
+- **Technology & Tools:** Analytical Problem Solving, Organizational Skills  
+
+---
 
 ## 📜 Certifications
-- **Lean Six Sigma Green Belt**
-- **Certified Guest Service Professional** (American Hotel and Lodging Association)
-- **Certified Prep Cook** (American Culinary Federation Education Foundation)
-- **Leadership Training:** Cliffton Strengths Assessment, Kolbe A Assessment
 
-## 📫 Connect with Me
-- **Email:** smckin16@msudenver.edu
-- **LinkedIn:** [Shavonne McKinney](https://www.linkedin.com/in/shavonne-mckinney-81552a145)
-- **GitHub:** [Your GitHub Username]
+- **Lean Six Sigma Green Belt**  
+- **Certified Guest Service Professional** (American Hotel and Lodging Association)  
+- **Certified Prep Cook** (American Culinary Federation Education Foundation)  
+- **Leadership Training:** Cliffton Strengths Assessment, Kolbe A Assessment  
 
-🚀 Always open to new opportunities and collaborations in **technology, leadership, and community advocacy**!
+---
+
+## 📫 Contact
+
+Feel free to reach out via email at **smckin16@msudenver.edu** or connect with me on [LinkedIn](https://www.linkedin.com/in/shavonne-mckinney-81552a145). For more projects and contributions, check out my [GitHub](Your GitHub URL).
+
+---
+
+Thanks for visiting! 🚀
 EOL
