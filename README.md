@@ -2,7 +2,7 @@ cat > README.md <<EOL
 # Hello, Welcome to My GitHub Profile! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/shavonne-mckinney-81552a145)  
-[![GitHub](https://img.shields.io/badge/GitHub-Username-lightgrey)]([Your GitHub URL])  
+[![GitHub](https://img.shields.io/badge/GitHub-Username-lightgrey)](https://github.com/Shavonne40)  
 [![Email](https://img.shields.io/badge/Email-Email-red)](mailto:smckin16@msudenver.edu)
 
 🎓 **Student at MSU Denver**  
