@@ -57,7 +57,7 @@ cat > README.md <<EOL
 
 ## 📫 Contact
 
-Feel free to reach out via email at **smckin16@msudenver.edu** or connect with me on [LinkedIn](https://www.linkedin.com/in/shavonne-mckinney-81552a145). For more projects and contributions, check out my [GitHub](Your GitHub URL).
+Feel free to reach out via email at **smckin16@msudenver.edu** or connect with me on [LinkedIn](https://www.linkedin.com/in/shavonne-mckinney-81552a145). For more projects and contributions, check out my [GitHub]https://github.com/Shavonne40/Shavonne40
 
 ---
 
